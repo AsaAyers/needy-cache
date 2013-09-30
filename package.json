@@ -1,0 +1,11 @@
+{
+  "name": "needy-cache",
+  "version": "0.0.1",
+  "description": "Caches needy paths in localStorage to speed up load times.",
+  "main": "needy-cache.js",
+  "devDependencies": {
+    "node-static": "~0.7.1"
+  },
+  "author": "Asa Ayers <Asa@AsaAyers.com>",
+  "license": "MIT"
+}
